@@ -1,6 +1,6 @@
 # Glassdoor Job Scraper
 
-Welcome. This CLi app will help you scrape jobs from Glassdoor according to a location and a job title. 
+This script will allow you you scrape jobs from Glassdoor according to a location and a job title. 
 
 You will need to insert your Glassdoor email and password in the env file. You also may have to hide this file (simply rename it from "env" to ".env"). 
 
