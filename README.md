@@ -6,4 +6,4 @@ You need to insert your Glassdoor email and password in the env file. You may ha
 
 The code works for me at the moment. I cannot guarantee that it will work indefinitely, as the Glassdoor site may change. 
 
-I've also included the json with my search results and a notebook with my analysis. 
+I've also included the JSON with my search results and a notebook with my analysis. 
